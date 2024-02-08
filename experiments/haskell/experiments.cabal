@@ -1,0 +1,26 @@
+cabal-version: 3.8
+
+name: experiments
+version: 0.1.0.0
+
+common common
+  build-depends:
+    , base >= 4.19
+    , bytestring
+    , containers
+    , directory
+    , mtl
+    , parsec
+    , text
+    , time
+    , transformers
+  ghc-options:
+    -Wall
+
+library
+  import:
+    , common
+  hs-source-dirs:
+    src
+  exposed-modules:
+    Experiments
