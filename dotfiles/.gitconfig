@@ -1,0 +1,9 @@
+[user]
+	name = Juan Pedro Villa Isaza
+	email = 584947+jpvillaisaza@users.noreply.github.com
+[core]
+	editor = nano
+[alias]
+	last = log -1
+[push]
+	autoSetupRemote = true
