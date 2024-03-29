@@ -1,0 +1,78 @@
+books:
+- title: Improve Your Handwriting
+  author: Rosemary Sassoon and G SE Briem
+  rating: 3
+  asin: B004G5Z2HQ
+
+- title: In the Lives of Puppets
+  author: TJ Klune
+  rating: 4
+  asin: B09Y461DKX
+  isbn: '9781250217424'
+
+- title: El viejo malestar del Nuevo Mundo
+  author: Mauricio García Villegas
+  rating: 4
+  isbn: '9786287569331'
+
+- title: Las aventuras de Pinocho
+  original_title: Le avventure di Pinocchio
+  author: Carlo Collodi
+  rating: 3
+  isbn: '9789585573161'
+
+- title: Why I Am Catholic (and You Should Be Too)
+  author: Brandon Vogt
+  rating: 2
+  isbn: '97815944719035'
+
+games:
+- title: Final Fantasy XVI
+  platform: PlayStation 5
+  rating: 5
+
+- title: Diablo IV
+  platform: PlayStation 5
+  rating: 4
+
+movies:
+- title: Barbie
+  rating: 4
+  imdb_url: https://www.imdb.com/title/tt1517268/
+
+- title: Asteroid City
+  rating: 3
+  imdb_url: https://www.imdb.com/title/tt14230388/
+
+- title: 'Dune: Part Two'
+  rating: 5
+  imdb_url: https://www.imdb.com/title/tt15239678/
+
+- title: Wonka
+  rating: 4
+  imdb_url: https://www.imdb.com/title/tt6166392/
+
+- title: Trees, and Other Entanglements
+  rating: 3
+  imdb_url: https://www.imdb.com/title/tt27662275/
+
+series:
+- title: For All Mankind
+  seasons: [4]
+  rating: 4
+  imdb_url: https://www.imdb.com/title/tt7772588/
+
+- title: Julia
+  seasons: [2]
+  rating: 4
+  imdb_url: https://www.imdb.com/title/tt10975574/
+
+- title: What Am I Eating? with Zooey Deschanel
+  seasons: [1]
+  rating: 3
+  imdb_url: https://www.imdb.com/title/tt23902454/
+
+- title: The Middle
+  seasons: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  rating: 5
+  imdb_url: https://www.imdb.com/title/tt1442464/
