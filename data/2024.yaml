@@ -56,6 +56,10 @@ movies:
   rating: 3
   imdb_url: https://www.imdb.com/title/tt27662275/
 
+- title: Oppenheimer
+  rating: 5
+  imdb_url: https://www.imdb.com/title/tt15398776/
+
 series:
 - title: For All Mankind
   seasons: [4]
