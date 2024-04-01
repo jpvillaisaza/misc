@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>My subscriptions</title>
+  </head>
+  <body>
+    <outline text="Culture" title="Culture">
+      <outline
+        htmlUrl="https://www.themarginalian.org"
+        text="The Marginalian"
+        title="The Marginalian"
+        xmlUrl="https://feeds.feedburner.com/brainpickings/rss"
+      />
+    </outline>
+    <outline text="Games" title="Games">
+      <outline
+        htmlUrl="https://www.theguardian.com/games"
+        text="The Guardian (Games)"
+        title="The Guardian (Games)"
+        xmlUrl="https://www.theguardian.com/games/rss"
+      />
+    </outline>
+    <outline text="News" title="News">
+      <outline text="Colombia" title="Colombia">
+        <outline
+          htmlUrl="https://elarmadillo.co"
+          text="El Armadillo"
+          title="El Armadillo"
+          xmlUrl="https://elarmadillo.co/feed/"
+        />
+        <outline
+          htmlUrl="https://vivirenelpoblado.com"
+          title="Vivir en El Poblado"
+          text="Vivir en El Poblado"
+          xmlUrl="https://vivirenelpoblado.com/feed/"
+        />
+      </outline>
+    </outline>
+    <outline text="Programming" title="Programming">
+      <outline
+        htmlUrl="https://www.aleksandrhovhannisyan.com"
+        text="Aleksandr Hovhannisyan"
+        title="Aleksandr Hovhannisyan"
+        xmlUrl="https://www.aleksandrhovhannisyan.com/feed.xml"
+      />
+      <outline
+        htmlUrl="https://chriscoyier.net"
+        text="Chris Coyier"
+        title="Chris Coyier"
+        xmlUrl="https://chriscoyier.net/feed/"
+      />
+      <outline
+        htmlUrl="https://cacm.acm.org"
+        text="Communications of the ACM"
+        title="Communications of the ACM"
+        xmlUrl="https://cacm.acm.org/feed/"
+      />
+      <outline
+        htmlUrl="https://haskellweekly.news"
+        text="Haskell Weekly"
+        title="Haskell Weekly"
+        xmlUrl="https://haskellweekly.news/newsletter.atom"
+      />
+      <outline
+        htmlUrl="https://jvns.ca"
+        text="Julia Evans"
+        title="Julia Evans"
+        xmlUrl="https://jvns.ca/atom.xml"
+      />
+    </outline>
+    <outline text="Tech" title="Tech">
+      <outline
+        htmlUrl="https://daringfireball.net"
+        text="Daring Fireball"
+        title="Daring Fireball"
+        xmlUrl="https://daringfireball.net/feeds/json"
+      />
+    </outline>
+  </body>
+</opml>
