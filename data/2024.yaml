@@ -26,6 +26,17 @@ books:
   rating: 2
   isbn: '97815944719035'
 
+- title: Cuentos completos
+  author: Virginia Woolf
+  translator: Colectivo Barbárika
+  rating: 3
+  isbn: 9786287582002
+
+- title: The Magic Finger
+  author: Roald Dahl
+  rating: 3
+  isbn: 9780142413852
+
 games:
 - title: Final Fantasy XVI
   platform: PlayStation 5
