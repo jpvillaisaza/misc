@@ -30,12 +30,20 @@ books:
   author: Virginia Woolf
   translator: Colectivo Barbárika
   rating: 3
-  isbn: 9786287582002
+  isbn: '9786287582002'
 
 - title: The Magic Finger
   author: Roald Dahl
   rating: 3
-  isbn: 9780142413852
+  isbn: '9780142413852'
+
+- title: The Twits
+  author: Roald Dahl
+  rating: 4
+  isbn: '9780142410394'
+  highlights:
+  - '"Now and again," he said, "but not very often, I have a brilliant
+    idea. This is one of them. Follow me, my friends, follow me."'
 
 games:
 - title: Final Fantasy XVI
