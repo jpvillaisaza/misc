@@ -29,6 +29,12 @@
           xmlUrl="https://elarmadillo.co/feed/"
         />
         <outline
+          htmlUrl="https://www.lasillavacia.com"
+          text="La Silla Vacía"
+          title="La Silla Vacía"
+          xmlUrl="https://www.lasillavacia.com/feed/"
+        />
+        <outline
           htmlUrl="https://vivirenelpoblado.com"
           title="Vivir en El Poblado"
           text="Vivir en El Poblado"
@@ -74,6 +80,12 @@
         text="Daring Fireball"
         title="Daring Fireball"
         xmlUrl="https://daringfireball.net/feeds/json"
+      />
+      <outline
+        htmlUrl="https://lifehacker.com"
+        text="Lifehacker"
+        title="Lifehacker"
+        xmlUrl="https://lifehacker.com/feed/rss"
       />
     </outline>
   </body>
