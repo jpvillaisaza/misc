@@ -73,6 +73,20 @@
         title="Julia Evans"
         xmlUrl="https://jvns.ca/atom.xml"
       />
+      <outline text="Updates" title="Updates">
+        <outline
+          htmlUrl="https://github.com/haskell/ghcup-hs/releases"
+          text="GHCup (Releases)"
+          title="GHCup (Releases)"
+          xmlUrl="https://github.com/haskell/ghcup-hs/releases.atom"
+        />
+        <outline
+          htmlUrl="https://github.com/ndmitchell/hlint/releases"
+          text="HLint (Releases)"
+          title="HLint (Releases)"
+          xmlUrl="https://github.com/ndmitchell/hlint/releases.atom"
+        />
+      </outline>
     </outline>
     <outline text="Tech" title="Tech">
       <outline
