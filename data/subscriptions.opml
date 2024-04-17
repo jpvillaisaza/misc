@@ -4,12 +4,40 @@
     <title>My subscriptions</title>
   </head>
   <body>
+    <outline text="Comics" title="Comics">
+      <outline
+        htmlUrl="https://theoatmeal.com"
+        text="The Oatmeal"
+        title="The Oatmeal"
+        xmlUrl="https://theoatmeal.com/feed/rss"
+      />
+      <outline
+        htmlUrl="https://xkcd.com"
+        text="xkcd"
+        title="xkcd"
+        xmlUrl="https://xkcd.com/atom.xml"
+      />
+    </outline>
     <outline text="Culture" title="Culture">
       <outline
         htmlUrl="https://www.themarginalian.org"
         text="The Marginalian"
         title="The Marginalian"
         xmlUrl="https://feeds.feedburner.com/brainpickings/rss"
+      />
+    </outline>
+    <outline text="Food" title="Food">
+      <outline
+        htmlUrl="https://www.seriouseats.com"
+        text="Serious Eats"
+        title="Serious Eats"
+        xmlUrl="https://www.seriouseats.com/atom.xml"
+      />
+      <outline
+        htmlUrl="https://www.thekitchn.com"
+        text="The Kitchn"
+        title="The Kitchn"
+        xmlUrl="https://www.thekitchn.com/main.rss"
       />
     </outline>
     <outline text="Games" title="Games">
@@ -60,6 +88,12 @@
         text="Communications of the ACM"
         title="Communications of the ACM"
         xmlUrl="https://cacm.acm.org/feed/"
+      />
+      <outline
+        htmlUrl="https://discourse.haskell.org"
+        text="Haskell Community"
+        title="Haskell Community"
+        xmlUrl="https://discourse.haskell.org/latest.rss"
       />
       <outline
         htmlUrl="https://haskellweekly.news"
