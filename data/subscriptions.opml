@@ -57,12 +57,6 @@
           xmlUrl="https://elarmadillo.co/feed/"
         />
         <outline
-          htmlUrl="https://www.lasillavacia.com"
-          text="La Silla Vacía"
-          title="La Silla Vacía"
-          xmlUrl="https://www.lasillavacia.com/feed/"
-        />
-        <outline
           htmlUrl="https://vivirenelpoblado.com"
           title="Vivir en El Poblado"
           text="Vivir en El Poblado"
