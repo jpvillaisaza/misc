@@ -79,6 +79,10 @@ movies:
   rating: 5
   imdb_url: https://www.imdb.com/title/tt15398776/
 
+- title: Poor Things
+  rating: 3
+  imdb_url: https://www.imdb.com/title/tt14230458/
+
 series:
 - title: For All Mankind
   seasons: [4]
