@@ -45,6 +45,11 @@ books:
   - '"Now and again," he said, "but not very often, I have a brilliant
     idea. This is one of them. Follow me, my friends, follow me."'
 
+- title: El infinito en un junco
+  author: Irene Vallejo
+  rating: 4
+  isbn: '9789585579873'
+
 games:
 - title: Final Fantasy XVI
   platform: PlayStation 5
@@ -53,6 +58,10 @@ games:
 - title: Diablo IV
   platform: PlayStation 5
   rating: 4
+
+- title: Hogwarts Legacy
+  platform: PlayStation 5
+  rating: 4.5
 
 movies:
 - title: Barbie
