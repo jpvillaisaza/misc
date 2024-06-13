@@ -92,6 +92,10 @@ movies:
   rating: 3
   imdb_url: https://www.imdb.com/title/tt14230458/
 
+- title: The Swan
+  rating:
+  imdb_url: https://www.imdb.com/title/tt28912758/
+
 series:
 - title: For All Mankind
   seasons: [4]
@@ -112,3 +116,18 @@ series:
   seasons: [1, 2, 3, 4, 5, 6, 7, 8, 9]
   rating: 5
   imdb_url: https://www.imdb.com/title/tt1442464/
+
+- title: Malcolm in the Middle
+  seasons: [1, 2, 3, 4, 5, 6, 7]
+  rating:
+  imdb_url: https://www.imdb.com/title/tt0212671/
+
+- title: The Simpsons
+  seasons: [1, 2, 3]
+  rating:
+  imdb_url: https://www.imdb.com/title/tt0096697/
+
+- title: The Fall of the House of Usher
+  seasons: [1]
+  rating:
+  imdb_url: https://www.imdb.com/title/tt15567174/
